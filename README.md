@@ -13,8 +13,8 @@ I'm an aspiring **Back-end Developer** acquiring expertise in **Python programmi
 - 📫 How to reach me: **thubelihlemd@gmail.com**
 
   
-- **[Personal Website / Blog]** https://sites.google.com/view/thubelihlengcobo/home
-- **[LinkedIn]** www.linkedin.com/in/thubelihle-ngcobo-606343299
+- **Personal Website / Blog** https://sites.google.com/view/thubelihlengcobo/home
+- **LinkedIn** www.linkedin.com/in/thubelihle-ngcobo-606343299
 
 
 
